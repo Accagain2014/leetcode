@@ -1,0 +1,5 @@
+
+.DS_Store
+Algorithms/CMakeLists.txt
+Algorithms/cmake-build-debug/
+
