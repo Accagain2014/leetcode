@@ -2,7 +2,7 @@
 LeetCode
 ========
 
-###LeetCode Algorithm
+###LeetCode Algorithms
 
 
 | # | Title | Solution | Difficulty |
@@ -28,6 +28,13 @@ LeetCode
 
 
 ###LeetCode Shell
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Bash](./Shell/195.sh)|Easy|
+|194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[Bash](./Shell/194.sh)|Medium|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Bash](./Shell/193.sh)|Easy|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Bash](./Shell/192.sh)|Medium|
 
 
 
