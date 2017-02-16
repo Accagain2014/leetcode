@@ -1,5 +1,5 @@
 
 .DS_Store
-Algorithms/CMakeLists.txt
-Algorithms/cmake-build-debug/
-
+Algorithms/CPP/CMakeLists.txt
+Algorithms/CPP/cmake-build-debug/
+Algorithms/CPP/.idea/
