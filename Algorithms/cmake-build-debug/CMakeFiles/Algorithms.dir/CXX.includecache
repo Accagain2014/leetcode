@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cms/UCAS/work/2017/leetcode/Algorithms/15.cpp
+cstdlib
+-
+cstdio
+-
+vector
+-
+map
+-
+algorithm
+-
+iostream
+-
+sstream
+-
+
