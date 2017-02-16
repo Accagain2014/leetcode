@@ -7,6 +7,10 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./Algorithms/CPP/25.cpp)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./Algorithms/CPP/24.cpp)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./Algorithms/CPP/23.cpp)|Hard|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./Algorithms/CPP/22.cpp)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./Algorithms/CPP/21.cpp)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./Algorithms/CPP/20.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./Algorithms/CPP/19.cpp)|Medium|

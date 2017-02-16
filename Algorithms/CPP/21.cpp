@@ -9,6 +9,7 @@
  * The new list should be made by splicing together the nodes of the first two lists.
  *
  * 做法：
+ *      模拟
  *      
  * 时间复杂度：
  *          
@@ -36,7 +37,7 @@ class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
 
-        ListNode * ans = NULL;
+        ListNode * ans = new ListNode(INF);
         ListNode * head = ans;
 
         while((l1) || (l2))
@@ -65,13 +66,11 @@ public:
                     l1 = l1->next;
                 }
             }
-            if(ans == NULL)
-                ans = now;
-            else
-                ans->next = now;
+
+            ans->next = now;
             ans = ans -> next;
         }
-        return head;
+        return head->next;
     }
 };
 
