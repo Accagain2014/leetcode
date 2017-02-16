@@ -7,6 +7,12 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./Algorithms/CPP/21.cpp)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./Algorithms/CPP/20.cpp)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./Algorithms/CPP/19.cpp)|Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/)|[C++](./Algorithms/CPP/18.cpp)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](./Algorithms/CPP/17.cpp)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](./Algorithms/CPP/16.cpp)|Medium|
 |15|[**`3Sum`**](https://leetcode.com/problems/3sum/) | [C++](./Algorithms/CPP/15.cpp) | Medium |
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./Algorithms/CPP/14.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./Algorithms/CPP/13.cpp)|Easy|

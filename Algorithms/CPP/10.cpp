@@ -38,3 +38,13 @@ publici:
 
     }
 };
+
+int main()
+{
+    Solution * test = new Solution();
+    string a = "aab";
+    string p = "c*a*b";
+
+    printf("%d\n", test->isMatch(a, p));
+    return 0;
+}
