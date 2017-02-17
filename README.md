@@ -7,6 +7,17 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/CPP/34.cpp)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Algorithms/CPP/33.cpp)|Medium|
+|32|[**`Longest Valid Parentheses`**](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./Algorithms/CPP/32.cpp)|Hard|
+|31|[**`Next Permutation`**](https://leetcode.com/problems/next-permutation/)|[C++](./Algorithms/CPP/31.cpp)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[C++](./Algorithms/CPP/30.cpp)|Hard|
+|29|[**`Divide Two Integers`**](https://leetcode.com/problems/divide-two-integers/)|[C++](./Algorithms/CPP/29.cpp)|Medium|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./Algorithms/CPP/28.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./Algorithms/CPP/27.cpp)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./Algorithms/CPP/26.cpp)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](./Algorithms/CPP/25.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./Algorithms/CPP/24.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./Algorithms/CPP/23.cpp)|Hard|
