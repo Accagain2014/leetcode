@@ -4,9 +4,10 @@ LeetCode
 
 ###LeetCode Algorithms
 
-
 | # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+|---| ----- | -------- | ----------- |
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/#/description)
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/CPP/34.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Algorithms/CPP/33.cpp)|Medium|
