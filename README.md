@@ -2,12 +2,17 @@
 LeetCode
 ========
 
-###LeetCode Algorithms
+##LeetCode Algorithms
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ----------- |
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)
-|49|[Group Anagrams](https://leetcode.com/problems/anagrams/#/description)
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)|[C++](./50.cpp)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/#/description)|[C++](./49.cpp)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/#/description)|[C++](./48.cpp)|Medium|
+|47|[**Permutations II**](https://leetcode.com/problems/permutations-ii/#/description)|[C++](./47.cpp)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/#/description)|[C++](./46.cpp)|Medium|
+|45|[**Jump Game II**](https://leetcode.com/problems/jump-game-ii/#/description)|[C++](./45.cpp)|Hard|
+
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/CPP/34.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Algorithms/CPP/33.cpp)|Medium|
@@ -45,10 +50,10 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./Algorithms/CPP/1.cpp)|Easy|
 
 
-###LeetCode Database
+##LeetCode Database
 
 
-###LeetCode Shell
+##LeetCode Shell
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
