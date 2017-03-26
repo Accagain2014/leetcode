@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
-|---| ----- | -------- | ----------- |
+|:---:| :-----: | :--------: | :-----------: |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)|[C++](./Algorithms/CPP/50.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/#/description)|[C++](./Algorithms/CPP/49.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/#/description)|[C++](./Algorithms/CPP/48.cpp)|Medium|
@@ -17,7 +17,7 @@ LeetCode
 |41|[**`First Missing Positive`**](https://leetcode.com/problems/first-missing-positive/#/description)|[C++](./Algorithm/CPP/41.cpp)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/description)|[C++](./Algorithms/CPP/40.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)|[C++](./Algorithms/CPP/39.cpp)|Medium|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/#/description)|[C++](./Algorithms/CPP/38.cpp)|[Easy]|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/#/description)|[C++](./Algorithms/CPP/38.cpp)|Easy|
 |37|
 |36|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
