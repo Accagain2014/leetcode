@@ -2,8 +2,7 @@
 LeetCode
 ========
 
-## LeetCode Algorithms
---------
+### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ----------- |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)|[C++](./Algorithms/CPP/50.cpp)|Medium|
@@ -49,11 +48,10 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./Algorithms/CPP/1.cpp)|Easy|
 
 
-## LeetCode Database
-------
+### LeetCode Database
 
-## LeetCode Shell
-------
+
+### LeetCode Shell
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Bash](./Shell/195.sh)|Easy|
