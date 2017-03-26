@@ -11,12 +11,15 @@ LeetCode
 |47|[**`Permutations II`**](https://leetcode.com/problems/permutations-ii/#/description)|[C++](./Algorithms/CPP/47.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/#/description)|[C++](./Algorithms/CPP/46.cpp)|Medium|
 |45|[**`Jump Game II`**](https://leetcode.com/problems/jump-game-ii/#/description)|[C++](./Algorithms/CPP/45.cpp)|Hard|
+|44|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/#/description)|[C++](./Algorithms/CPP/43.cpp)|Medium|
 |42|[**`Trapping Rain Water`**](https://leetcode.com/problems/trapping-rain-water/#/description)|[C++](./Algorithms/CPP/42.cpp)|Hard|
 |41|[**`First Missing Positive`**](https://leetcode.com/problems/first-missing-positive/#/description)|[C++](./Algorithm/CPP/41.cpp)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/description)|[C++](./Algorithms/CPP/40.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)|[C++](./Algorithms/CPP/39.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/#/description)|[C++](./Algorithms/CPP/38.cpp)|[Easy]|
+|37|
+|36|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/CPP/34.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Algorithms/CPP/33.cpp)|Medium|
@@ -41,7 +44,7 @@ LeetCode
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./Algorithms/CPP/14.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./Algorithms/CPP/13.cpp)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](./Algorithms/CPP/12.cpp)|Medium|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./Algorithms/CPP/11.cpp)|Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| |Medium|
 |10|[**`Regular Expression Matching`**](https://leetcode.com/problems/regular-expression-matching/)|[C++](./Algorithms/CPP/10.cpp)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./Algorithms/CPP/9.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./Algorithms/CPP/8.cpp)|Medium|
