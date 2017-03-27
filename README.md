@@ -11,15 +11,15 @@ LeetCode
 |47|[**`Permutations II`**](https://leetcode.com/problems/permutations-ii/#/description)|[C++](./Algorithms/CPP/47.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/#/description)|[C++](./Algorithms/CPP/46.cpp)|Medium|
 |45|[**`Jump Game II`**](https://leetcode.com/problems/jump-game-ii/#/description)|[C++](./Algorithms/CPP/45.cpp)|Hard|
-|44|
+|44|[**`Wildcard Matching`**](https://leetcode.com/problems/wildcard-matching/#/description)|[C++](./Algorithms/CPP/44.cpp)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/#/description)|[C++](./Algorithms/CPP/43.cpp)|Medium|
 |42|[**`Trapping Rain Water`**](https://leetcode.com/problems/trapping-rain-water/#/description)|[C++](./Algorithms/CPP/42.cpp)|Hard|
 |41|[**`First Missing Positive`**](https://leetcode.com/problems/first-missing-positive/#/description)|[C++](./Algorithm/CPP/41.cpp)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/description)|[C++](./Algorithms/CPP/40.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)|[C++](./Algorithms/CPP/39.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/#/description)|[C++](./Algorithms/CPP/38.cpp)|Easy|
-|37|
-|36|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/#/description)|[C++](./Algorithms/CPP/37.cpp)|Hard|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/#/description)|[C++](./Algorithms/CPP/36.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/CPP/34.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Algorithms/CPP/33.cpp)|Medium|
@@ -53,7 +53,7 @@ LeetCode
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./Algorithms/CPP/5.cpp)|Medium|
 |4|[**`Median of Two Sorted Arrays`**](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./Algorithms/CPP/4.cpp)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./Algorithms/CPP/3.cpp)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./Algorithms/CPP/2.cpp)|(Medium)|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./Algorithms/CPP/2.cpp)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./Algorithms/CPP/1.cpp)|Easy|
 
 
