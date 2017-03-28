@@ -5,6 +5,16 @@ LeetCode
 ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |:---:| :-----: | :--------: | :-----------: |
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)|[C++](./Algorithms/CPP/60.cpp)|Medium|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/#/description)|[C++](./Algorithms/CPP/59.cpp)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/#/description)|[C++](./Algorithms/CPP/58.cpp)|Easy|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/#/description)|[C++](./Algorithms/CPP/57.cpp)|Hard|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/#/description)|[C++](./Algorithms/CPP/56.cpp)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/#/description)|[C++](./Algorithms/CPP/55.cpp)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/#/description)|[C++](./Algorithms/CPP/54.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)|[C++](./Algorithms/CPP/53.cpp)|Easy|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/#/description)|[C++](./Algorithms/CPP/52.cpp)|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/#/description)|[C++](./Algorithms/CPP/51.cpp)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)|[C++](./Algorithms/CPP/50.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/#/description)|[C++](./Algorithms/CPP/49.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/#/description)|[C++](./Algorithms/CPP/48.cpp)|Medium|
@@ -18,7 +28,7 @@ LeetCode
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/description)|[C++](./Algorithms/CPP/40.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)|[C++](./Algorithms/CPP/39.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/#/description)|[C++](./Algorithms/CPP/38.cpp)|Easy|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/#/description)|[C++](./Algorithms/CPP/37.cpp)|Hard|
+|37|[**`Sudoku Solver`**](https://leetcode.com/problems/sudoku-solver/#/description)|[C++](./Algorithms/CPP/37.cpp)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/#/description)|[C++](./Algorithms/CPP/36.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/CPP/34.cpp)|Medium|
