@@ -22,7 +22,9 @@
  * Note: Given n will be between 1 and 9 inclusive.
  * 
  * 做法：
- *      dfs
+ *      dfs 超时
+ *      直接构造出第k个，假设一共有n位，首位去掉后，每一个首位后面都有(n-1)!个不同的排列，如此类推
+ *
  * 时间复杂度：
  *          
  * 
@@ -41,6 +43,7 @@ using namespace std;
 
 class Solution {
 public:
+    /*
     string map[10] = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
     int hav[10];
     string ans ;
@@ -79,23 +82,54 @@ public:
                 return;
         }
     }
-    string getPermutation(int n, int k) {
-        //int hav[n+1];
+    */
 
+    int n_order(int n)
+    {
+        int ans = 1;
+        for(int i=2; i<=n; i++)
+            ans *= i;
+        return ans;
+    }
+
+    string getPermutation(int n, int k) {
+
+        //int hav[n+1];
+        /*
         memset(hav, 0, sizeof(hav));
         get = 1;
 
         dfs(n, k, "");
         printf("%s\n", ans.c_str());
         return ans;
+        */
+        string base[9] = {"1", "2", "3", "4", "5", "6", "7", "8", "9"};
+
+        vector<string> x(base, base + sizeof(base) / sizeof(base[0]));
+        string ans = "";
+        k --;
+        while(n)
+        {
+            n--;
+            int tmp = n_order(n);
+            int remain = k/tmp;
+            ans += x[remain];
+            x.erase(x.begin() + remain);
+            k = k % tmp;
+        }
+        cout << ans;
+        return ans;
     }
 };
 
 int main() {
     Solution *test = new Solution();
-    int data[] = {};
+    int data[] = {1, 2, 3, 4};
     vector<int> x(data, data + sizeof(data) / sizeof(data[0]));
-    test->getPermutation(8, 8590);
+    test->getPermutation(3, 2);
+//    x.erase(x.begin()+1);
+//    for(int i=0; i<x.size(); i++)
+//        printf("%d\n", x[i]);
     return 0;
 }
 

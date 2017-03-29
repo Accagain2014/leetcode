@@ -5,6 +5,11 @@ LeetCode
 ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |:---:| :-----: | :--------: | :-----------: |
+|65|[Valid Number](https://leetcode.com/problems/valid-number/#/description)|[C++](./Algorithms/CPP/65.cpp)|Hard|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/description)|[C++](./Algorithms/CPP/64.cpp)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/#/description)|[C++](./Algorithms/CPP/63.cpp)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)|[C++](./Algorithms/CPP/62.cpp)|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/#/description)|[C++](./Algorithms/CPP/61.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)|[C++](./Algorithms/CPP/60.cpp)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/#/description)|[C++](./Algorithms/CPP/59.cpp)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/#/description)|[C++](./Algorithms/CPP/58.cpp)|Easy|
