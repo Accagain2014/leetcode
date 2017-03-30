@@ -5,7 +5,14 @@ LeetCode
 ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |:---:| :-----: | :--------: | :-----------: |
-|65|[Valid Number](https://leetcode.com/problems/valid-number/#/description)|[C++](./Algorithms/CPP/65.cpp)|Hard|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/#/description)||Hard|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/#/description)|[C++](./Algorithms/CPP/71.cpp)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/description)|[C++](./Algorithms/CPP/70.cpp)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description)|[C++](./Algorithms/CPP/69.cpp)|Easy|
+|68|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/#/description)|[C++](./Algorithms/CPP/67.cpp)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/#/description)|[C++](./Algorithms/CPP/66.cpp)|Easy|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/#/description)||Hard|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/description)|[C++](./Algorithms/CPP/64.cpp)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/#/description)|[C++](./Algorithms/CPP/63.cpp)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)|[C++](./Algorithms/CPP/62.cpp)|Medium|
