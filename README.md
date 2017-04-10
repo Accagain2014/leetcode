@@ -1,11 +1,16 @@
 
 LeetCode
 ========
-
 ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |:---:| :-----: | :--------: | :-----------: |
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/#/description)||Hard|
+|78|[Subsets](https://leetcode.com/problems/subsets/#/description)|[C++](./Algorithms/CPP/78.cpp)|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/#/description)|[C++](./Algorithms/CPP/77.cpp)|Medium|
+|76|[`*Minimum Window Substring*`](https://leetcode.com/problems/minimum-window-substring/#/description)|[C++](./Algorithms/CPP/76.cpp)|Hard|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/#/description)|[C++](./Algorithms/CPP/75.cpp)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/#/description)|[C++](./Algorithms/CPP/74.cpp)|Medium|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/#/description)|[C++](./Algorithms/CPP/73.cpp)|Medium|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/#/description)|[C++](./Algorithms/CPP/72.cpp)|Hard|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/#/description)|[C++](./Algorithms/CPP/71.cpp)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/description)|[C++](./Algorithms/CPP/70.cpp)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description)|[C++](./Algorithms/CPP/69.cpp)|Easy|
