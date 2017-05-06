@@ -4,9 +4,15 @@ LeetCode
 ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |:---:| :-----: | :--------: | :-----------: |
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/#/description)|[C++](./Algorithms/CPP/84.cpp)|Hard|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|[C++](./Algorithms/CPP/83.cpp)|Easy|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/#/description)|[C++](./Algorithms/CPP/82.cpp)|Medium|
+|81|[**`Search in Rotated Sorted Array II`**](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/#/description)|[C++](./Algorithms/CPP/81.cpp)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/#/description)|[C++](./Algorithms/CPP/80.cpp)|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search/#/description)|[C++](./Algorithms/CPP/79.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/#/description)|[C++](./Algorithms/CPP/78.cpp)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/#/description)|[C++](./Algorithms/CPP/77.cpp)|Medium|
-|76|[`*Minimum Window Substring*`](https://leetcode.com/problems/minimum-window-substring/#/description)|[C++](./Algorithms/CPP/76.cpp)|Hard|
+|76|[**`Minimum Window Substring`**](https://leetcode.com/problems/minimum-window-substring/#/description)|[C++](./Algorithms/CPP/76.cpp)|Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/#/description)|[C++](./Algorithms/CPP/75.cpp)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/#/description)|[C++](./Algorithms/CPP/74.cpp)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/#/description)|[C++](./Algorithms/CPP/73.cpp)|Medium|
@@ -49,7 +55,7 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/#/description)|[C++](./Algorithms/CPP/36.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/CPP/35.cpp)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/CPP/34.cpp)|Medium|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Algorithms/CPP/33.cpp)|Medium|
+|33|[**`Search in Rotated Sorted Array`**](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./Algorithms/CPP/33.cpp)|Medium|
 |32|[**`Longest Valid Parentheses`**](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./Algorithms/CPP/32.cpp)|Hard|
 |31|[**`Next Permutation`**](https://leetcode.com/problems/next-permutation/)|[C++](./Algorithms/CPP/31.cpp)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[C++](./Algorithms/CPP/30.cpp)|Hard|
