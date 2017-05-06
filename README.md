@@ -101,5 +101,8 @@ LeetCode
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Bash](./Shell/193.sh)|Easy|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Bash](./Shell/192.sh)|Medium|
 
+### Indeed 2017 网测
+#### [第一次网测](./Indeed/README.md)
+
 
 
