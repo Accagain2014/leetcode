@@ -4,7 +4,7 @@
 
 ### Algorithms & data structure
 | 单词 | 音标 | 意思 |
-|:---:| :-----: | :--------: |
+|:---| ----- | -------- |
 | product | [ˈprɑdʌkt] | 乘积 | 
 | palindrome |	[ˈpælɪndroʊm] |	回文 |
 | ascending	| [əˈsɛndɪŋ] | 升序 |
