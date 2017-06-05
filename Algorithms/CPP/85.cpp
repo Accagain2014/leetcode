@@ -1,25 +1,23 @@
 // Author :  Accagain
-// Date   :  17/5/2
+// Date   :  17/5/13
 // Email  :  chenmaosen0@gmail.com
 
 /***************************************************************************************
  *
  * 题意：
- *  Given n non-negative integers representing the histogram's bar height where the width of each bar is 1,
+ * Given a 2D binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.
  *
- *  find the area of largest rectangle in the histogram.
+ * For example, given the following matrix:
  *
- *  Above is a histogram where width of each bar is 1, given height = [2,1,5,6,2,3].
+ * 1 0 1 0 0
+ * 1 0 1 1 1
+ * 1 1 1 1 1
+ * 1 0 0 1 0
  *
- *  The largest rectangle is shown in the shaded area, which has area = 10 unit.
- *
- *  For example,
- *  Given heights = [2,1,5,6,2,3],
- *  return 10.
+ * Return 6.
  * 
  * 做法：
- *      维护一个上升的栈，每一个元素出栈时，计算超过它的连续的最大右边和，超过它的连续最大左边
- *
+ *      
  * 时间复杂度：
  *          
  * 
@@ -36,14 +34,14 @@
 
 using namespace std;
 
-
 class Solution {
 public:
+
     int largestRectangleArea(vector<int>& heights) {
         if(heights.size() == 0)
             return 0;
         stack<int> mys;
-        int ans = -INF;
+        int ans = 0;
         heights.push_back(0);
         int n = heights.size();
         for(int i=0; i<heights.size(); i++) {
@@ -62,18 +60,48 @@ public:
         //printf("%d\n", ans);
         return ans;
     }
+
+    int maximalRectangle(vector<vector<char>>& matrix) {
+        if(matrix.empty())
+            return 0;
+
+        int n = matrix.size();
+        int m = matrix[0].size();
+
+        int ans = 0;
+
+        for(int i=1; i<=n; i++)
+        {
+            vector<int> height(m, 0);
+            for(int j=1; j<=m; j++)
+            {
+                int temp = i;
+                while((temp>=1) && (matrix[temp-1][j-1] == '1'))
+                {
+                    temp--;
+                    height[j-1] ++;
+                }
+            }
+            ans = max(ans, largestRectangleArea(height));
+        }
+        return ans;
+
+    }
+
 };
 
 int main() {
     Solution *test = new Solution();
-    int data[] = {2, 1, 2};
+    char data[] = {'1', '0', '1', '0', '0'};
+    vector<vector<char>> myv;
+    myv.push_back(vector<char> (data, data + sizeof(data) / sizeof(data[0])));
 
-    vector<int> x(data, data + sizeof(data) / sizeof(data[0]));
-    printf("%d\n", test->largestRectangleArea(x));
+    //vector<char> x(data, data + sizeof(data) / sizeof(data[0]));
+
     return 0;
 }
 
 //
-// Created by cms on 17/5/2.
+// Created by cms on 17/5/13.
 //
 

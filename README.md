@@ -4,7 +4,10 @@ LeetCode
 ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |:---:| :-----: | :--------: | :-----------: |
-|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/#/description)|[C++](./Algorithms/CPP/84.cpp)|Hard|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/#/description)|[C++](./Algorithms/CPP/87.cpp)|Hard|
+|86|[Partition List](https://leetcode.com/problems/partition-list/#/description)|[C++](./Algorithms/CPP/86.cpp)|Medium|
+|85|[**`Maximal Rectangle`**](https://leetcode.com/problems/maximal-rectangle/#/description)|[C++](./Algorithms/CPP/85.cpp)|Hard|
+|84|[**`Largest Rectangle in Histogram`**](https://leetcode.com/problems/largest-rectangle-in-histogram/#/description)|[C++](./Algorithms/CPP/84.cpp)|Hard|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|[C++](./Algorithms/CPP/83.cpp)|Easy|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/#/description)|[C++](./Algorithms/CPP/82.cpp)|Medium|
 |81|[**`Search in Rotated Sorted Array II`**](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/#/description)|[C++](./Algorithms/CPP/81.cpp)|Medium|
@@ -103,6 +106,8 @@ LeetCode
 
 ### Indeed 2017 网测
 #### [第一次网测](./Indeed/README.md)
+
+### 常见专业英文词汇
 
 
 
