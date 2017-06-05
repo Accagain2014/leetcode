@@ -1,7 +1,9 @@
 ## Professional Vocabularies in Computer Science 
 @[English Interview, Important Vocabularies, 计算机, 外企面试, 专业词汇]
 
-## Algorithms & data structure
+### Algorithms & data structure
+------
+
 | 单词 | 音标 | 意思 |
 | : --- : | : --- : | : --- : |
 | product | [ˈprɑdʌkt] | 乘积 | 

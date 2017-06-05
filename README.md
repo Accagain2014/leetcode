@@ -108,6 +108,6 @@ LeetCode
 #### [第一次网测](./Indeed/README.md)
 
 ### 常见专业英文词汇
-
+[词汇表](./vocabularies.md)
 
 

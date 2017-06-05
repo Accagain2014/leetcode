@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bebb5b7-10ae-4c50-8204-fcef305dfcd1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vocabularies.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/CPP/81.cpp" afterPath="$PROJECT_DIR$/Algorithms/CPP/81.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/CPP/82.cpp" afterPath="$PROJECT_DIR$/Algorithms/CPP/82.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/CPP/83.cpp" afterPath="$PROJECT_DIR$/Algorithms/CPP/83.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/CPP/84.cpp" afterPath="$PROJECT_DIR$/Algorithms/CPP/84.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vocabularies.md" afterPath="$PROJECT_DIR$/vocabularies.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,12 +18,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="503">
-                <caret line="109" column="12" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+              <first_editor relative-caret-position="488">
+                <caret line="110" column="24" lean-forward="false" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -36,12 +31,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vocabularies.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vocabularies.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vocabularies.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <first_editor relative-caret-position="-2074">
+                <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -70,8 +65,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/vocabularies.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -445,22 +440,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/vocabularies.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="503">
-            <caret line="109" column="12" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+          <first_editor relative-caret-position="-2074">
+            <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vocabularies.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <first_editor relative-caret-position="488">
+            <caret line="110" column="24" lean-forward="false" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
