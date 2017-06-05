@@ -105,9 +105,9 @@ LeetCode
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Bash](./Shell/192.sh)|Medium|
 
 ### Indeed 2017 网测
-#### [第一次网测](./Indeed/README.md)
+#### - [第一次网测](./Indeed/README.md)
 
 ### 常见专业英文词汇
-[词汇表](./vocabularies.md)
+#### - [词汇表](./vocabularies.md)
 
 
